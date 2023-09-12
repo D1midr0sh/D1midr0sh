@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<img src="https://komarev.com/ghpvc/?username=D1midr0sh&style=flat-square&color=lightgrey" alt=""/>
 
 <!--
 **D1midr0sh/D1midr0sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
